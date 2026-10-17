@@ -1,0 +1,13 @@
+form{
+    background: rgb(181, 202, 199);
+}
+legend{
+    border-color: rgb(72, 82, 73);
+    border-radius: 15px;
+    font-family:'Courier New', Courier, monospace;
+    font-size:small;
+}
+input[type="text"]{
+    background-color: rgb(202, 209, 198);
+    color: rgb(14, 153, 49);
+}

@@ -1,0 +1,20 @@
+table{
+    border-color: plum;
+    border-radius: 3px;
+    background: rgb(104, 65, 134);
+    color:rgb(28, 13, 228);
+    text-align: center;
+    align-items: center;
+}
+td{
+    background-color: rgb(221, 209, 193);
+    color:khaki;
+}
+a{
+    text-decoration:indigo ;
+    text-align: center;
+    box-shadow: rgb(230, 160, 230);
+}
+a:hover{
+    text-decoration: thistle;
+}
